@@ -261,3 +261,5 @@ function atvImg(){
 	}
 
 }
+
+module.exports = atvImg;
